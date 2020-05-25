@@ -15,7 +15,7 @@ p{
 	background-image:linear-gradient(rgba(0,0,0,.9), rgba(0,0,0,.9)), url("../images/iphone-notebook-pen-working-34580.jpg");
 	background-repeat: no-repeat;
     	background-position: center center top;
-    	background-attachment: scroll;
+    	background-attachment: fixed;
 		-webkit-background-size: cover;
 		-moz-background-size:cover;
 		-o-background-size:cover;
