@@ -14,12 +14,12 @@ p{
 	height: 100vh;
 	background-image:linear-gradient(rgba(0,0,0,.9), rgba(0,0,0,.9)), url("../images/iphone-notebook-pen-working-34580.jpg");
 	background-repeat: no-repeat;
-    background-position: center center top;
-    
+    	background-position: center center top;
+    	background-attachment: scroll;
 		-webkit-background-size: cover;
 		-moz-background-size:cover;
 		-o-background-size:cover;
-    background-size: cover;
+    	background-size: cover;
 	border-bottom: 2px solid #28A745;
 }
 /******** Bootsrap Navbar Customization**********/
